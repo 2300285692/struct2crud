@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+ <struts>  
+    <package name="userinfo" extends="struts-default">  
+        <action name="userinfoControl" class="action.UserinfoAction">  
+            <result name="success">/index.jsp</result>  
+            <result name="error">/error.jsp</result>  
+            <result name="show">/index.jsp</result>  
+            <result name="update">/update.jsp</result>  
+            <result name="input">/add.jsp</result>  
+  
+        </action>  
+    </package>  
+</struts>      

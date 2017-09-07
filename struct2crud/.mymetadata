@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="struct2crud"
+  id="myeclipse.1494503990752"
+  context-root="/struct2crud"
+  j2ee-spec="5.0"
+  archive="struct2crud.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
